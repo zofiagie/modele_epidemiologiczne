@@ -5,7 +5,7 @@ W ciągu ostatnich dwóch lat w związku z rozprzenieniem się COVID-19 każdy z
 - SIR (susceptible -> infected -> recovered) i SIRS, 
 - SEIR (susceptible -> exposed -> infected -> recovered).
 
-W naszej pracy skupiłyśmy się na różnicach dotyczących tych modeli oraz wyznaczymy ich rozwiązania analityczne (o ile to możliwe), a także numeryczne. 
+W naszej pracy skupiłyśmy się na różnicach dotyczących tych modeli oraz wyznaczyłyśmy ich rozwiązania analityczne, a także numeryczne. 
 
 Sprawdziłyśmy w jaki sposób epidemia będzie rozwijała się w czasie w zależności od współczynników wykorzystywanych w modelach - czy będzie się rozprzestrzeniać, wygasać lub utrzymywać na stałym poziomie. 
 
